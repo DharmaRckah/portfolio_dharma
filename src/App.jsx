@@ -1,12 +1,12 @@
 import { useState } from 'react'
 
 import './App.css'
-
+import Home from './pages/Home'
 import React from 'react'
 
 const App = () => {
   return (
-    <div>App</div>
+   <Home/>
   )
 }
 
